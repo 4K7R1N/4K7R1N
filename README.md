@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://t.me/a4k7r1nanonbot">
     <img src="https://img.shields.io/badge/telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000">
-  <a href="https://www.tiktok.com/@astrafe1n">
+  <a href="https://www.tiktok.com/@4k7r1n">
     <img src="https://img.shields.io/badge/tiktok-FFFFFF?style=for-the-badge&logo=tiktok&logoColor=000000">
   </a>
       <p align="center">⁺    ₊✦  . ₊°  .    ⁺ ✷ . ₊   ° †   ⁺   . ₊✦  °.</p>
