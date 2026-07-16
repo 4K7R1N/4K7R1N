@@ -29,3 +29,10 @@
     <div class="text" align="left"><br>
   <h2 align="left">𝐛𝐲𝐢</h2>
 𝗂 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾 𝗈𝗌𝖽𝖽 𝗌𝗒𝗆𝗉𝗍𝗈𝗆𝗌, 𝗌𝗈 𝗆𝗒 𝖻𝖾𝗁𝖺𝗏𝗂𝗈𝗋, 𝗆𝗈𝗈𝖽, 𝗈𝗋 𝗐𝖺𝗒 𝗈𝖿 𝗌𝗉𝖾𝖺𝗄𝗂𝗇𝗀 𝗆𝖺𝗒 𝖼𝗁𝖺𝗇𝗀𝖾 𝖺𝗍 𝗍𝗂𝗆𝖾𝗌.
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=4K7R1N&label=★&color=66CDAA&style=for-the-badge"
+    alt="profile views"
+  />
+</p>
