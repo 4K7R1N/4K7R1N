@@ -32,7 +32,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=4K7R1N&label=★&color=66CDAA&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=4K7R1N&label=★&color=E0FFFF&style=for-the-badge"
     alt="profile views"
   />
 </p>
