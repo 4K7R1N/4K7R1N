@@ -1,31 +1,14 @@
-
+<p align="center">
+  <img src="banner.png" width="100%">
+    <div class="text" align="left"><br>
 <h2 align="left">𝒂𝒃𝒐𝒖𝒕 𝒎𝒆:</h2>
 <div class="about-text" align="left">
 𝒂𝐤𝐢<br>
 <br>
 𝟏𝟖𝒚.𝒐.<br>
 <br>
-𝟖𝒘𝟗 𝒔𝒑/𝙨𝙭𝟖𝟓𝟒<br>
+𝟓𝒘𝟒 𝒔𝒑/𝙨𝙭𝟓𝟏𝟒<br>
 <br>
-𝐟𝐝: 𝐛𝐚𝐜𝐤𝐫𝐨𝐨𝐦𝐬, 𝐞𝐛𝐲𝐥, 𝐫𝐨𝐛𝐥𝐨𝐱, 𝐛𝐬𝐝, 𝐳𝐞𝐧𝐨 𝐫𝐞𝐦𝐚𝐤𝐞<br>
-<br>
-𝐫𝐮 / 𝐞𝐧 / 𝐮𝐚<br>
-
-   <h2 align="right">𝒅𝒏𝒊</h2>
-    <div class="about-text" align="right">
-𝐚𝐧𝐲 -𝐩𝐡𝐢𝐥𝐢𝐚𝐬, 𝐮𝐧𝐝𝐞𝐫 𝟏𝟒, 𝐫𝐚𝐜𝐢𝐬𝐭𝐬, 𝐧𝐚𝐳𝐢𝐬, 𝐱𝐞𝐧𝐨𝐩𝐡𝐨𝐛𝐞𝐬, 𝐡𝐨𝐦𝐨𝐩𝐡𝐨𝐛𝐞𝐬, 𝐭𝐫𝐚𝐧𝐬𝐩𝐡𝐨𝐛𝐞𝐬, 𝐚𝐛𝐥𝐞𝐢𝐬𝐭𝐬
-</p>
-<p align="center">
-  <img src="banner.png" width="100%">
-    <div class="text" align="left"><br>
   <h2 align="left">𝐛𝐲𝐢</h2>
-𝙨𝙮𝙨𝙩𝙚𝙢 | 𝙘𝙤-𝙝𝙤𝙨𝙩. 𝙞𝙛 𝙩𝙝𝙖𝙩’𝙨 𝙖 𝙥𝙧𝙤𝙗𝙡𝙚𝙢, 𝙙𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩.<br>
-    ⟡    ┈ 𝙝𝙤𝙨𝙩 @N11KK1<br>
-      <br>
-<br>
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=4K7R1N&label=★&color=AFEEEE&style=for-the-badge"
-    alt="profile views"
-  />
-</p>
+𝙨𝙮𝙨 | 𝙘𝙤-𝙝𝙤𝙨𝙩. 𝙞𝙛 𝙩𝙝𝙖𝙩’𝙨 𝙖 𝙥𝙧𝙤𝙗𝙡𝙚𝙢, 𝙙𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩.<br>
+
